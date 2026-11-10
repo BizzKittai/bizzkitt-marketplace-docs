@@ -2,7 +2,7 @@
 
 Inspect the actual contents of a ZIP/JAR release against a saved allow, deny and required-file policy inside IntelliJ IDEA. Inspect bounded nested ZIP/JAR archives and export a snapshot report before you distribute a release.
 
-**Status, 10 November 2026:** tested local candidate; not yet offered for purchase. Marketplace identity, paid activation and final pricing remain pending. This repository contains documentation and fictional examples only, not the proprietary plugin or an evaluation download.
+**Status, 10 November 2026:** version 1.0.0 was received by JetBrains Marketplace as plugin 35969 and is hidden, under review. Pricing/licensing setup is currently unavailable. Genuine paid activation, final pricing and public sale remain pending. This repository contains documentation and fictional examples only, not the proprietary plugin or an evaluation download.
 
 ## Workflow
 
