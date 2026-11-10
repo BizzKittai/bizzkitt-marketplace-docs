@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "cases": [
+    {
+      "id": "nl-below",
+      "country": "NL",
+      "state": "",
+      "postcode": "1000AA",
+      "sku": "fixture-tee",
+      "quantity": 1,
+      "expected": {
+        "flat_rate:1": "4.95",
+        "local_pickup:3": "0.00"
+      }
+    },
+    {
+      "id": "nl-at-threshold",
+      "country": "NL",
+      "state": "",
+      "postcode": "1000AA",
+      "sku": "fixture-tee",
+      "quantity": 2,
+      "expected": {
+        "flat_rate:1": "4.95",
+        "free_shipping:2": "0.00",
+        "local_pickup:3": "0.00"
+      }
+    },
+    {
+      "id": "nl-above",
+      "country": "NL",
+      "state": "",
+      "postcode": "1000AA",
+      "sku": "fixture-tee",
+      "quantity": 3,
+      "expected": {
+        "flat_rate:1": "4.95",
+        "free_shipping:2": "0.00",
+        "local_pickup:3": "0.00"
+      }
+    }
+  ]
+}
