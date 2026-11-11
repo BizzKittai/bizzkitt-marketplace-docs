@@ -11,4 +11,4 @@ Original tools for repeatable, local checks before shipping software or changing
 
 These pages describe actual features and limits. Product counts, tests and drafts are not sales. No plugin binaries, paid source, customer data, credentials or payment details are published here. No Fab product is represented as built.
 
-Support: **hello@bizzkitt.ai**. Use fictional minimal reproductions. BizzKitt BV, Netherlands. WordPress, WooCommerce, JetBrains and Unity are the trademarks of their respective owners; no endorsement is implied.
+[Contact and support](CONTACT.md): **hello@bizzkitt.ai**. Use fictional minimal reproductions. BizzKitt BV, Netherlands. WordPress, WooCommerce, JetBrains and Unity are the trademarks of their respective owners; no endorsement is implied.

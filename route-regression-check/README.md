@@ -24,6 +24,6 @@ This release queries static NavMesh data in one saved open scene outside Play Mo
 
 Verified with Unity 6000.3.28f1 on macOS ARM64: 44 distinct native Edit Mode cases, visible Editor workflow and a clean import into a separate blank project. The optional demo uses URP 17.3.0. Other operating systems and versions are not claimed as tested.
 
-Support: **hello@bizzkitt.ai**, BizzKitt BV, Netherlands. Send the Unity version, expected/observed result and a minimal fictional reproduction. Never send credentials or an entire confidential project. No response-time guarantee is advertised.
+[Contact and support](../CONTACT.md): **hello@bizzkitt.ai**, BizzKitt BV, Netherlands. Send the Unity version, expected/observed result and a minimal fictional reproduction. Never send credentials or an entire confidential project. No response-time guarantee is advertised.
 
 OpenAI Codex assisted source, test, documentation and demo authoring. Review and validation described here were performed by the Codex agent. No human code review, customer endorsement or Unity approval is claimed. Unity is a trademark of Unity Technologies; no endorsement is implied.
