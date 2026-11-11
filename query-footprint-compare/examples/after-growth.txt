@@ -1,0 +1,10 @@
+12:00 DEBUG fictional.Mapper - ==> Preparing: SELECT name FROM fictional_product WHERE id = ?
+12:00 DEBUG fictional.Mapper - ==> Parameters: 7(Integer)
+12:00 DEBUG fictional.Mapper - ==> Preparing: SELECT total FROM fictional_order WHERE id = ?
+12:00 DEBUG fictional.Mapper - ==> Parameters: 7(Integer)
+12:00 DEBUG fictional.Mapper - ==> Preparing: SELECT name FROM fictional_product WHERE id = ?
+12:00 DEBUG fictional.Mapper - ==> Parameters: 7(Integer)
+12:00 DEBUG fictional.Mapper - ==> Preparing: SELECT name FROM fictional_product WHERE id = ?
+12:00 DEBUG fictional.Mapper - ==> Parameters: 7(Integer)
+12:00 DEBUG fictional.Mapper - ==> Preparing: SELECT status FROM fictional_job WHERE id = ?
+12:00 DEBUG fictional.Mapper - ==> Parameters: 7(Integer)

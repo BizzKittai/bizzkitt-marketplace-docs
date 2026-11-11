@@ -1,0 +1,3 @@
+==> Preparing: SELECT name
+ FROM fictional_product
+==> Parameters: 7(Integer)
