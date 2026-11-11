@@ -2,7 +2,7 @@
 
 Save the routes that matter in your Unity level, then check reachability, path length and detours after navigation changes.
 
-**Availability, 11 November 2026:** version 1.0.0 is locally built and natively tested. Publisher registration and Asset Store submission are not complete; it is not publicly for sale. These are free product instructions, not a download of the paid extension.
+**Availability, 11 November 2026:** version 1.0.0 is locally built and natively tested. The BizzKitt BV publisher profile has been created; profile completion, package submission and Asset Store review remain pending. It is not publicly for sale. These are free product instructions, not a download of the paid extension.
 
 ## What it does
 
