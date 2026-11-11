@@ -18,7 +18,7 @@ Parameters are never reconstructed or exported. Templates can still contain sens
 
 ## Installation and commercial status
 
-Private evaluation 0.1.0 and a paid candidate 1.0.0 are separate artifacts. The paid candidate uses JetBrains signed-entitlement validation. Its prepared product code is not an assigned Marketplace registration. No actual paid activation or sale is implied. Supported IDE build branch: IntelliJ Platform 252; other versions are not claimed. A private evaluation must not be uploaded as a free Marketplace release.
+Private evaluation 0.1.0 and a paid candidate 1.0.0 are separate artifacts. The paid candidate uses JetBrains signed-entitlement validation. JetBrains received version 1.0.0 on 11 November 2026 as plugin 36013, update 1218078, product code PQUERYFOOTPRINT. It remains Hidden and under review; pricing and an authentic entitlement test are pending. No actual paid activation or sale is implied. Supported IDE build branch: IntelliJ Platform 252; other versions are not claimed. A private evaluation must not be uploaded as a free Marketplace release.
 
 See [privacy](PRIVACY.md), [license](EULA.md), [validation](VALIDATION.md) and fictional [examples](examples). Support: hello@bizzkitt.ai.
 

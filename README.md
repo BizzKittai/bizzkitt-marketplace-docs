@@ -8,7 +8,7 @@ Original tools for repeatable, local checks before shipping software or changing
 | [Release Boundary Check](release-boundary-check/README.md) | Check actual nested ZIP/JAR release entries against a file policy | Hidden JetBrains review upload; pricing and review pending |
 | [Shipping Regression Check](shipping-regression-check/README.md) | Repeat saved expected core shipping rates in an isolated WooCommerce staging copy | Tested local candidate; partner/QIT/Marketplace review pending |
 | [Route Regression Check](route-regression-check/README.md) | Repeat saved static NavMesh route expectations in the Unity Editor | Natively tested local candidate; publisher profile created; listing and Asset Store review pending |
-| [Query Footprint Compare](query-footprint-compare/README.md) | Compare observed MyBatis Preparing-event counts between saved captures | Tested local paid candidate; Marketplace review and sales setup pending |
+| [Query Footprint Compare](query-footprint-compare/README.md) | Compare observed MyBatis Preparing-event counts between saved captures | Hidden JetBrains upload 36013; pricing, entitlement test and review pending |
 
 These pages describe actual features and limits. Product counts, tests and drafts are not sales. No plugin binaries, paid source, customer data, credentials or payment details are published here. No Fab product is represented as built.
 
