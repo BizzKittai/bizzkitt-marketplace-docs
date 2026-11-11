@@ -1,0 +1,206 @@
+{
+    "schemaVersion": 1,
+    "product": "Route Regression Check",
+    "productVersion": "1.0.0",
+    "unityVersion": "6000.3.28f1",
+    "checkedAtUtc": "2026-11-11T09:09:32.9453600Z",
+    "scene": "Assets/BizzKitt/RouteRegressionCheck/Examples/RouteDemo.unity",
+    "suite": "Assets/BizzKitt/RouteRegressionCheck/Examples/PassingRoutes.asset",
+    "inputFingerprint": "da70967e69dcac6ec18623ad3b5ee3c23c835254a3987571760d8991d69e990d",
+    "scope": "Static NavMesh route queries in one open saved scene; not a character movement or physics test.",
+    "passed": 3,
+    "failed": 0,
+    "errors": 0,
+    "routes": [
+        {
+            "name": "Entrance to exit",
+            "result": "PASS",
+            "message": "Complete route satisfies its saved bounds.",
+            "expectation": "Complete",
+            "pathStatus": "PathComplete",
+            "queryReturnedPath": true,
+            "agentTypeId": 0,
+            "areaMask": -1,
+            "requestedStart": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "requestedGoal": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "projectedStart": {
+                "x": 0.0,
+                "y": 0.04999998211860657,
+                "z": 0.0
+            },
+            "projectedGoal": {
+                "x": 20.0,
+                "y": 0.04999998211860657,
+                "z": 0.0
+            },
+            "sampleRadius": 0.5,
+            "startProjection": 0.04999998211860657,
+            "goalProjection": 0.04999998211860657,
+            "length": 35.819122314453128,
+            "directDistance": 20.0,
+            "detour": 1.7909561395645142,
+            "maximumLength": 45.0,
+            "maximumDetour": 3.0,
+            "corners": [
+                {
+                    "x": 0.0,
+                    "y": 0.04999998211860657,
+                    "z": 0.0
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.04999998211860657,
+                    "z": 8.600000381469727
+                },
+                {
+                    "x": 1.5,
+                    "y": 0.04999998211860657,
+                    "z": 9.100000381469727
+                },
+                {
+                    "x": 18.600000381469728,
+                    "y": 0.04999998211860657,
+                    "z": 9.100000381469727
+                },
+                {
+                    "x": 19.100000381469728,
+                    "y": 0.04999998211860657,
+                    "z": 8.600000381469727
+                },
+                {
+                    "x": 20.0,
+                    "y": 0.04999998211860657,
+                    "z": 0.0
+                }
+            ]
+        },
+        {
+            "name": "Island stays isolated",
+            "result": "PASS",
+            "message": "No complete route exists between the projected endpoints.",
+            "expectation": "Unreachable",
+            "pathStatus": "PathPartial",
+            "queryReturnedPath": true,
+            "agentTypeId": 0,
+            "areaMask": -1,
+            "requestedStart": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "requestedGoal": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": -10.0
+            },
+            "projectedStart": {
+                "x": 0.0,
+                "y": 0.04999998211860657,
+                "z": 0.0
+            },
+            "projectedGoal": {
+                "x": 10.0,
+                "y": 0.04999998211860657,
+                "z": -10.0
+            },
+            "sampleRadius": 0.5,
+            "startProjection": 0.04999998211860657,
+            "goalProjection": 0.04999998211860657,
+            "length": 6.293647289276123,
+            "directDistance": 14.142135620117188,
+            "detour": 0.44502806663513186,
+            "maximumLength": 0.0,
+            "maximumDetour": 0.0,
+            "corners": [
+                {
+                    "x": 0.0,
+                    "y": 0.04999998211860657,
+                    "z": 0.0
+                },
+                {
+                    "x": 4.5,
+                    "y": 0.04999998211860657,
+                    "z": -4.399999618530273
+                }
+            ]
+        },
+        {
+            "name": "Return to entrance",
+            "result": "PASS",
+            "message": "Complete route satisfies its saved bounds.",
+            "expectation": "Complete",
+            "pathStatus": "PathComplete",
+            "queryReturnedPath": true,
+            "agentTypeId": 0,
+            "areaMask": -1,
+            "requestedStart": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "requestedGoal": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "projectedStart": {
+                "x": 20.0,
+                "y": 0.04999998211860657,
+                "z": 0.0
+            },
+            "projectedGoal": {
+                "x": 0.0,
+                "y": 0.04999998211860657,
+                "z": 0.0
+            },
+            "sampleRadius": 0.5,
+            "startProjection": 0.04999998211860657,
+            "goalProjection": 0.04999998211860657,
+            "length": 35.819122314453128,
+            "directDistance": 20.0,
+            "detour": 1.7909561395645142,
+            "maximumLength": 45.0,
+            "maximumDetour": 0.0,
+            "corners": [
+                {
+                    "x": 20.0,
+                    "y": 0.04999998211860657,
+                    "z": 0.0
+                },
+                {
+                    "x": 19.100000381469728,
+                    "y": 0.04999998211860657,
+                    "z": 8.600000381469727
+                },
+                {
+                    "x": 18.600000381469728,
+                    "y": 0.04999998211860657,
+                    "z": 9.100000381469727
+                },
+                {
+                    "x": 1.5,
+                    "y": 0.04999998211860657,
+                    "z": 9.100000381469727
+                },
+                {
+                    "x": 1.0,
+                    "y": 0.04999998211860657,
+                    "z": 8.600000381469727
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.04999998211860657,
+                    "z": 0.0
+                }
+            ]
+        }
+    ]
+}

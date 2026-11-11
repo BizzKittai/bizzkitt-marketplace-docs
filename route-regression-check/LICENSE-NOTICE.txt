@@ -1,0 +1,8 @@
+Copyright (c) 2026 BizzKitt BV. All rights reserved.
+
+When acquired through the Unity Asset Store, this asset is licensed under the standard Unity Asset Store End User License Agreement applicable to that purchase, including its Editor Extension seat terms:
+https://unity.com/legal/as-terms
+
+BizzKitt BV is the provider of this asset. No separate BizzKitt EULA or subscription replaces the applicable Asset Store license. This notice does not grant a public download or redistribution license to copies obtained outside an authorized distribution.
+
+No product DRM, trial expiration, activation service or paid feature unlock is implemented.
