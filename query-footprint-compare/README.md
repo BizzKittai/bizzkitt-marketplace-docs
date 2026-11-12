@@ -23,3 +23,10 @@ Private evaluation 0.1.0 and a paid candidate 1.0.0 are separate artifacts. The 
 See [privacy](PRIVACY.md), [license](EULA.md), [validation](VALIDATION.md) and fictional [examples](examples). Support: hello@bizzkitt.ai.
 
 Developed with AI assistance. Automated and native evaluation are agent checks, not human review or customer acceptance. BizzKitt BV is not endorsed by JetBrains or MyBatis.
+
+## Version 1.0.1 (12 November 2026)
+
+Version 1.0.1 installs in IntelliJ-based IDEs from 2025.2 onwards; version 1.0.0 was limited to branch 252. It has
+no functional changes. The 56 automated checks passed again, and the JetBrains Plugin Verifier 1.411 reported
+Compatible against IntelliJ IDEA 2025.2.6.4, 2025.3.6.2, 2026.1.5.1, 2026.2.4 and 2026.3. The newer IDE versions
+were not tested by hand.

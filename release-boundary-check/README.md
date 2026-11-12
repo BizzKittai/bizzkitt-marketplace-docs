@@ -31,3 +31,10 @@ A €49 annual license and 14-day trial are proposals only. No checkout or licen
 ## Development disclosure
 
 Original BizzKitt implementation with AI assistance, reviewed and tested by the Codex agent. No human code review, buyer, order or earnings are claimed.
+
+## Version 1.0.1 (12 November 2026)
+
+Version 1.0.1 installs in IntelliJ-based IDEs from 2025.2 onwards; version 1.0.0 was limited to branch 252. It has
+no functional changes. The 57 automated checks passed again, and the JetBrains Plugin Verifier 1.411 reported
+Compatible against IntelliJ IDEA 2025.2.6.4, 2025.3.6.2, 2026.1.5.1, 2026.2.4 and 2026.3. The newer IDE versions
+were not tested by hand.

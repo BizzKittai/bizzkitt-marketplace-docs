@@ -40,3 +40,10 @@ Only actual dated validation receipts establish executed tests, native behavior 
 Support: hello@bizzkitt.ai. Send only a minimal fictional report/inventory and the plugin/IDE version. Do not send customer data, credentials or license tokens. Original BizzKitt BV implementation with AI assistance; owned platform/license infrastructure reused, original parser/workflow/tests. No customer testimonials, paid demand or sales are asserted.
 
 See [license](EULA.md), [privacy](PRIVACY.md) and [validation](VALIDATION.md). Status: tested local candidate; no public sale or provider approval.
+
+## Version 1.0.1 (12 November 2026)
+
+Version 1.0.1 installs in IntelliJ-based IDEs from 2025.2 onwards; version 1.0.0 was limited to branch 252. It has
+no functional changes. The 68 automated checks passed again, and the JetBrains Plugin Verifier 1.411 reported
+Compatible against IntelliJ IDEA 2025.2.6.4, 2025.3.6.2, 2026.1.5.1, 2026.2.4 and 2026.3. The newer IDE versions
+were not tested by hand.
